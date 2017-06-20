@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/muni/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/muni/AndroidStudioProjects/Androidlocalization/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_7380a7b109740bc882d7b31d689dd7d7f5125751.jar" />
+    </item>
+
+</items>

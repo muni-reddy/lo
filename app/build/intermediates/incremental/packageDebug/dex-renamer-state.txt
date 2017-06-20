@@ -1,0 +1,4 @@
+#Tue Jun 13 13:52:36 IST 2017
+base.0=/Users/muni/AndroidStudioProjects/Androidlocalization/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/muni/AndroidStudioProjects/Androidlocalization/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
